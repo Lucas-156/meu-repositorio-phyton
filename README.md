@@ -5,19 +5,6 @@ Welcome to my Python portfolio! Here you'll find a collection of my projects, sk
 
 I am a passionate Python developer with experience in web development, data analysis, and machine learning. I enjoy solving complex problems and sharing my knowledge through tutorials and open-source projects. # type: ignore
 
-## Projects
-
-Here are some of the projects I've worked on:
-
-- **[Project 1](./projects/project1/README.md)**: A web scraping tool using BeautifulSoup and Selenium.
-- **[Project 2](./projects/project2/README.md)**: A web application built with Flask.
-
-## Blog
-
-I also write about Python and related technologies:
-
-- **[Article 1](./blog/article1.md)**: Introduction to Python for Beginners.
-- **[Article 2](./blog/article2.md)**: How to Build a REST API with Flask.
 
 ## Contact
 
